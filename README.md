@@ -3,6 +3,7 @@
 # goit-algo2-hw-03
 
 **Зміст**
+
 <a href="#1"><img src="https://img.shields.io/badge/Застосування алгоритму максимального потоку для логістики товарів-512BD4?style=for-the-badge"/></a> <a href="#2"><img src="https://img.shields.io/badge/Порівняння ефективності OOBTree і словника для діапазонних запитів-ECD53F?style=for-the-badge"/></a>
 
 ---
